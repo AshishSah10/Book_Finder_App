@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/book-finder-app/static/css/main.c2e6297d.chunk.css",
+    "main.js": "/book-finder-app/static/js/main.48f453bb.chunk.js",
+    "main.js.map": "/book-finder-app/static/js/main.48f453bb.chunk.js.map",
+    "runtime-main.js": "/book-finder-app/static/js/runtime-main.b3623d26.js",
+    "runtime-main.js.map": "/book-finder-app/static/js/runtime-main.b3623d26.js.map",
+    "static/js/2.96aca08a.chunk.js": "/book-finder-app/static/js/2.96aca08a.chunk.js",
+    "static/js/2.96aca08a.chunk.js.map": "/book-finder-app/static/js/2.96aca08a.chunk.js.map",
+    "index.html": "/book-finder-app/index.html",
+    "static/css/main.c2e6297d.chunk.css.map": "/book-finder-app/static/css/main.c2e6297d.chunk.css.map",
+    "static/js/2.96aca08a.chunk.js.LICENSE.txt": "/book-finder-app/static/js/2.96aca08a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3623d26.js",
+    "static/js/2.96aca08a.chunk.js",
+    "static/css/main.c2e6297d.chunk.css",
+    "static/js/main.48f453bb.chunk.js"
+  ]
+}
