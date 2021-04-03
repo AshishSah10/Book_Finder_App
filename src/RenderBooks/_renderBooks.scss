@@ -1,0 +1,32 @@
+.booksContainer{
+    // background-color: darkslategrey;
+    .bookItem{
+        display: flex;
+        flex-direction: row;
+        background-color: darkslategrey;
+        color: white;
+        height: 10%;
+        width: 100%;
+        border: 1px solid wheat;
+        border-radius: 4%;
+        .info-primary{
+            max-height: 30%;
+            width: 30%;
+            margin-left: 4px;
+            margin-right: 4px;
+            border-right: 5px solid wheat;
+        }
+        
+        .info-secondary{
+            max-height: 30%;
+            width: 70%;
+            margin-left: 4px;
+            margin-right: 4px;
+        }
+        &:hover{
+            background-color: teal;
+            cursor: pointer;
+        }
+    }
+    
+}
